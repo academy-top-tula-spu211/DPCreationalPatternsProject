@@ -128,10 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DPCreationalPatternsProject.cpp" />
+    <ClCompile Include="Prototype.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AbstractFactory.h" />
+    <ClInclude Include="Builder.h" />
     <ClInclude Include="FactoryMethod.h" />
+    <ClInclude Include="Prototype.h" />
+    <ClInclude Include="Singleton.h" />
     <ClInclude Include="Swordsman.h" />
     <ClInclude Include="Unit.h" />
     <ClInclude Include="UnitBad.h" />
